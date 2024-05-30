@@ -196,4 +196,4 @@ python ChuanhuChatbot.py
 
 <img width="250" alt="image" src="https://user-images.githubusercontent.com/51039745/226920291-e8ec0b0a-400f-4c20-ac13-dafac0c3aeeb.JPG">
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=你的GitHub仓库URL)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/wso1563914/ChuanhuChatGPT.git)
